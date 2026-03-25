@@ -1,5 +1,3 @@
- 
-
 ### **Introduction**
 Frontend frameworks are tools that provide a structured way to build user interfaces for websites and web apps. Instead of coding everything from scratch with plain JavaScript, they offer reusable components, patterns, and built-in features. This helps developers create interactive, dynamic, and complex applications faster, with better code organization and maintainability. Think of them like a blueprint or a set of pre-built tools that handle common tasks, so you can focus on the unique parts of your application.
 
