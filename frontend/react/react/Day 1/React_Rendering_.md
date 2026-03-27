@@ -13,6 +13,8 @@ React's rendering is **declarative, not imperative**. You describe **WHAT** the 
 
 ---
 
+
+
 ## **1️⃣ Component Lifecycle**
 
 ### **Concept (70%)**
