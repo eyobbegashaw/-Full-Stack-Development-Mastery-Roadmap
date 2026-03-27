@@ -11,6 +11,9 @@ fetch() → Axios → SWR → React Query → RTK Query → GraphQL Clients
 Simple   →   Enhanced   →   Smart   →   Advanced   →   Specialized
 ```
 
+
+
+
 **Key Challenges in Data Fetching:**
 1. **Loading states** - Show spinners while data loads
 2. **Error handling** - Graceful error states
